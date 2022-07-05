@@ -156,3 +156,15 @@ You are required to submit the following for review:
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+## Assets
+
+The following image demonstrates the web application's appearance and functionality: 
+
+![screenshot.](./assets/images/horiseon.png)
+
+## Links
+
+Use the following link to the deployed application.
+
+Use [Horiseon] (https://www.google.com).
