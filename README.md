@@ -167,4 +167,4 @@ The following image demonstrates the web application's appearance and functional
 
 Use the following link to the deployed application.
 
-Use [Horiseon] (https://www.google.com).
+Use [Horiseon] (https://ramrod79.github.io/challenge-1-horiseon/).
